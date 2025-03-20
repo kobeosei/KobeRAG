@@ -107,7 +107,7 @@ AI optimizes resources, enables real-time monitoring, and improves decision-maki
 - Option to download answer as text
 
 ## Author
-**Kobe Osai Junior**
+**osei wusu brempong**
 
 ## License
 MIT License
